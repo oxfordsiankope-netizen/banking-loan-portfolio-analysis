@@ -1,0 +1,6 @@
+loan_type,total_loans,total_original_principal_zmw,defaulted_loans,default_count_pct
+Business,10045,1434398848.25,1406,14.0
+Vehicle,5571,788064648.16,745,13.37
+Education,4669,660797283.06,618,13.24
+Personal,12842,1806549110.58,1685,13.12
+Agriculture,6873,983079266.75,859,12.5

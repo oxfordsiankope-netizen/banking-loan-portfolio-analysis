@@ -1,0 +1,14 @@
+metric,value,unit
+customers,20000,records
+branches,8,records
+loans,40000,records
+active_loans,31027,records
+defaulted_loans,5313,records
+paid_loans,3660,records
+total_original_principal,5672889156.80,ZMW
+defaulted_original_principal,917841641.54,ZMW
+average_loan_amount,141822.23,ZMW
+minimum_loan_amount,2500.02,ZMW
+maximum_loan_amount,349995.79,ZMW
+average_customer_monthly_income,28453.52,ZMW
+customers_with_any_default,4572,customers

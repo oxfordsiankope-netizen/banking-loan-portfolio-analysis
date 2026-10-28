@@ -1,0 +1,5 @@
+interest_rate_band,total_loans,average_rate_pct,defaulted_loans,default_count_pct
+29_and_above,8878,31.99,1206,13.58
+under_15,10348,11.5,1390,13.43
+22_to_under_29,10325,25.49,1364,13.21
+15_to_under_22,10449,18.49,1353,12.95

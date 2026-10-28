@@ -1,0 +1,6 @@
+task,check,result
+16A,duplicate_loan_ids,PASS (0 rows returned)
+16B,orphan_loans,PASS (0 rows returned)
+16C,six missing_or_invalid_value_checks,PASS (all 0)
+16D,portfolio totals reconcile,PASS (true)
+16E,all 7 assertions,PASS

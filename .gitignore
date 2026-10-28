@@ -1,0 +1,9 @@
+# Local secrets and accidental real-data exports
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+# Keep intentional aggregate result CSVs in results/; review raw exports before publishing

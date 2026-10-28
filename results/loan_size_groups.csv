@@ -1,0 +1,5 @@
+loan_size_group,total_loans,defaulted_loans,default_count_pct,total_original_principal_zmw,defaulted_original_principal_zmw,default_value_pct
+very_large,12535,2249,17.94,3431111730.50,619495055.24,18.06
+large,10390,1493,14.37,1537105697.78,223790057.36,14.56
+medium,6416,728,11.35,474828516.65,54589588.16,11.5
+small,10659,843,7.91,229843211.87,19966940.78,8.69

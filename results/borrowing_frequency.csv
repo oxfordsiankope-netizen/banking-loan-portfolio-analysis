@@ -1,0 +1,5 @@
+borrowing_group,customers,total_loans,defaulted_loans,loan_default_count_pct,customers_with_any_default,customer_default_pct
+0_loans,2757,0,0,,0,0.0
+1_loan,5480,5480,693,12.65,693,12.65
+2_loans,5382,10764,1427,13.26,1319,24.51
+3_or_more,6381,23756,3193,13.44,2560,40.12

@@ -1,0 +1,5 @@
+income_group,total_loans,defaulted_loans,default_count_pct,total_original_principal_zmw,defaulted_original_principal_zmw,default_value_pct
+low_income,11462,2119,18.49,1635575139.22,346711895.81,21.2
+lower-middle_income,6727,983,14.61,951632600.79,173601561.81,18.24
+upper-middle_income,9666,1177,12.18,1377514586.92,219373377.28,15.93
+high_income,12145,1034,8.51,1708166829.87,178154806.64,10.43
